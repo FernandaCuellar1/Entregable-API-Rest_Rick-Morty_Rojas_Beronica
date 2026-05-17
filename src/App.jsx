@@ -45,7 +45,7 @@ function App() {
         </main>
         
         <footer className="bg-gray-800 text-center py-4 text-xs text-gray-500 border-t border-gray-700 w-full">
-          Entregable API Rest Rick & Morty © {new Date().getFullYear()}
+          Entregable API Rest Rick & Morty © {new Date().getFullYear()} | Desarrollado por Beronica Fernanda Rojas Cuellar
         </footer>
       </div>
     </Router>
